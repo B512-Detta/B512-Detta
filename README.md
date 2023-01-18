@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Bernadetta Sri Endah 
-- 👀 I’m interested in Data and Artificial Intelligence
+- 👀 I’m interested in Data and Machine Learning
 - 🌱 I’m currently learning Machine Learning and friends
-- How to reach me https://www.linkedin.com/in/bernadetta-sri-endah-d-p-399a86219
+- How to reach me https://www.linkedin.com/in/bernadetta-sri-endah-d-p/
